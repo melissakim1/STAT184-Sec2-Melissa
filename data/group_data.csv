@@ -1,0 +1,433 @@
+"Pay_Grade","Branch","Sex","value","Rank_Title"
+"E1","Army","Male","7,909","Private"
+"E1","Army","Female","1,322","Private"
+"E1","Army","Total","9,231","Private"
+"E1","Navy","Male","9,051","Seaman Recruit"
+"E1","Navy","Female","2,681","Seaman Recruit"
+"E1","Navy","Total","11,732","Seaman Recruit"
+"E1","Marine","Male","7,233","Private"
+"E1","Marine","Female","659","Private"
+"E1","Marine","Total","7,892","Private"
+"E1","AirForce","Male","6,564","Airman Basic"
+"E1","AirForce","Female","1,607","Airman Basic"
+"E1","AirForce","Total","8,171","Airman Basic"
+"E1","SpaceForce","Male","177","Specialist 1"
+"E1","SpaceForce","Female","30","Specialist 1"
+"E1","SpaceForce","Total","207","Specialist 1"
+"E1","Total","Male","30,934",NA
+"E1","Total","Female","6,299",NA
+"E1","Total","Total","37,233",NA
+"E2","Army","Male","18,763","Private"
+"E2","Army","Female","3,383","Private"
+"E2","Army","Total","22,146","Private"
+"E2","Navy","Male","10,969","Seaman Apprentice"
+"E2","Navy","Female","3,603","Seaman Apprentice"
+"E2","Navy","Total","14,572","Seaman Apprentice"
+"E2","Marine","Male","14,688","Private First Class"
+"E2","Marine","Female","1,604","Private First Class"
+"E2","Marine","Total","16,292","Private First Class"
+"E2","AirForce","Male","6,562","Airman"
+"E2","AirForce","Female","1,698","Airman"
+"E2","AirForce","Total","8,260","Airman"
+"E2","SpaceForce","Male","159","Specialist 2"
+"E2","SpaceForce","Female","33","Specialist 2"
+"E2","SpaceForce","Total","192","Specialist 2"
+"E2","Total","Male","51,141",NA
+"E2","Total","Female","10,321",NA
+"E2","Total","Total","61,462",NA
+"E3","Army","Male","38,802","Private First Class"
+"E3","Army","Female","8,169","Private First Class"
+"E3","Army","Total","46,971","Private First Class"
+"E3","Navy","Male","23,430","Seaman"
+"E3","Navy","Female","7,493","Seaman"
+"E3","Navy","Total","30,923","Seaman"
+"E3","Marine","Male","35,047","Lance Corporal"
+"E3","Marine","Female","3,787","Lance Corporal"
+"E3","Marine","Total","38,834","Lance Corporal"
+"E3","AirForce","Male","34,981","Airman First Class"
+"E3","AirForce","Female","9,891","Airman First Class"
+"E3","AirForce","Total","44,872","Airman First Class"
+"E3","SpaceForce","Male","797","Specialist 3"
+"E3","SpaceForce","Female","210","Specialist 3"
+"E3","SpaceForce","Total","1,007","Specialist 3"
+"E3","Total","Male","133,057",NA
+"E3","Total","Female","29,550",NA
+"E3","Total","Total","162,607",NA
+"E4","Army","Male","81,278","Corporal OR Specialist"
+"E4","Army","Female","14,619","Corporal OR Specialist"
+"E4","Army","Total","95,897","Corporal OR Specialist"
+"E4","Navy","Male","39,241","Petty Officer Third Class"
+"E4","Navy","Female","11,855","Petty Officer Third Class"
+"E4","Navy","Total","51,096","Petty Officer Third Class"
+"E4","Marine","Male","28,946","Corporal"
+"E4","Marine","Female","2,942","Corporal"
+"E4","Marine","Total","31,888","Corporal"
+"E4","AirForce","Male","52,399","Senior Airman"
+"E4","AirForce","Female","15,324","Senior Airman"
+"E4","AirForce","Total","67,723","Senior Airman"
+"E4","SpaceForce","Male","598","Specialist 4"
+"E4","SpaceForce","Female","134","Specialist 4"
+"E4","SpaceForce","Total","732","Specialist 4"
+"E4","Total","Male","202,462",NA
+"E4","Total","Female","44,874",NA
+"E4","Total","Total","247,336",NA
+"E5","Army","Male","55,671","Sergeant"
+"E5","Army","Female","11,111","Sergeant"
+"E5","Army","Total","66,782","Sergeant"
+"E5","Navy","Male","57,238","Petty Officer Second Class"
+"E5","Navy","Female","16,254","Petty Officer Second Class"
+"E5","Navy","Total","73,492","Petty Officer Second Class"
+"E5","Marine","Male","21,481","Sergeant"
+"E5","Marine","Female","2,723","Sergeant"
+"E5","Marine","Total","24,204","Sergeant"
+"E5","AirForce","Male","42,576","Staff Sergeant"
+"E5","AirForce","Female","11,038","Staff Sergeant"
+"E5","AirForce","Total","53,614","Staff Sergeant"
+"E5","SpaceForce","Male","901","Sergeant"
+"E5","SpaceForce","Female","165","Sergeant"
+"E5","SpaceForce","Total","1,066","Sergeant"
+"E5","Total","Male","177,867",NA
+"E5","Total","Female","41,291",NA
+"E5","Total","Total","219,158",NA
+"E6","Army","Male","50,030","Staff Sergeant"
+"E6","Army","Female","7,432","Staff Sergeant"
+"E6","Army","Total","57,462","Staff Sergeant"
+"E6","Navy","Male","45,749","Petty Officer First Class"
+"E6","Navy","Female","9,580","Petty Officer First Class"
+"E6","Navy","Total","55,329","Petty Officer First Class"
+"E6","Marine","Male","11,667","Staff Sergeant"
+"E6","Marine","Female","1,370","Staff Sergeant"
+"E6","Marine","Total","13,037","Staff Sergeant"
+"E6","AirForce","Male","32,242","Technical Sergeant"
+"E6","AirForce","Female","6,746","Technical Sergeant"
+"E6","AirForce","Total","38,988","Technical Sergeant"
+"E6","SpaceForce","Male","696","Technical Sergeant"
+"E6","SpaceForce","Female","130","Technical Sergeant"
+"E6","SpaceForce","Total","826","Technical Sergeant"
+"E6","Total","Male","140,384",NA
+"E6","Total","Female","25,258",NA
+"E6","Total","Total","165,642",NA
+"E7","Army","Male","30,367","Sergeant First Class"
+"E7","Army","Female","4,322","Sergeant First Class"
+"E7","Army","Total","34,689","Sergeant First Class"
+"E7","Navy","Male","18,026","Chief Petty Officer"
+"E7","Navy","Female","3,098","Chief Petty Officer"
+"E7","Navy","Total","21,124","Chief Petty Officer"
+"E7","Marine","Male","8,191","Gunnery Sergeant"
+"E7","Marine","Female","760","Gunnery Sergeant"
+"E7","Marine","Total","8,951","Gunnery Sergeant"
+"E7","AirForce","Male","18,367","Master Sergeant OR First Sergeant"
+"E7","AirForce","Female","4,717","Master Sergeant OR First Sergeant"
+"E7","AirForce","Total","23,084","Master Sergeant OR First Sergeant"
+"E7","SpaceForce","Male","517","Master Sergeant"
+"E7","SpaceForce","Female","110","Master Sergeant"
+"E7","SpaceForce","Total","627","Master Sergeant"
+"E7","Total","Male","75,468",NA
+"E7","Total","Female","13,007",NA
+"E7","Total","Total","88,475",NA
+"E8","Army","Male","9,287","First Sergeant OR Master Sergeant"
+"E8","Army","Female","1,426","First Sergeant OR Master Sergeant"
+"E8","Army","Total","10,713","First Sergeant OR Master Sergeant"
+"E8","Navy","Male","6,500","Senior Chief Petty Officer"
+"E8","Navy","Female","912","Senior Chief Petty Officer"
+"E8","Navy","Total","7,412","Senior Chief Petty Officer"
+"E8","Marine","Male","3,559","First Sergeant OR Master Sergeant"
+"E8","Marine","Female","275","First Sergeant OR Master Sergeant"
+"E8","Marine","Total","3,834","First Sergeant OR Master Sergeant"
+"E8","AirForce","Male","3,632","Senior Master Sergeant OR First Sergeant"
+"E8","AirForce","Female","1,133","Senior Master Sergeant OR First Sergeant"
+"E8","AirForce","Total","4,765","Senior Master Sergeant OR First Sergeant"
+"E8","SpaceForce","Male","100","Senior Master Sergeant"
+"E8","SpaceForce","Female","38","Senior Master Sergeant"
+"E8","SpaceForce","Total","138","Senior Master Sergeant"
+"E8","Total","Male","23,078",NA
+"E8","Total","Female","3,784",NA
+"E8","Total","Total","26,862",NA
+"E9","Army","Male","2,908","Sergeant Major OR Command Sergeant Major"
+"E9","Army","Female","413","Sergeant Major OR Command Sergeant Major"
+"E9","Army","Total","3,321","Sergeant Major OR Command Sergeant Major"
+"E9","Navy","Male","2,518","Master Chief Petty Officer OR Fleet/Command Master Chief Petty Officer"
+"E9","Navy","Female","323","Master Chief Petty Officer OR Fleet/Command Master Chief Petty Officer"
+"E9","Navy","Total","2,841","Master Chief Petty Officer OR Fleet/Command Master Chief Petty Officer"
+"E9","Marine","Male","1,518","Sergeant Major OR Master Gunnery Sergeant"
+"E9","Marine","Female","83","Sergeant Major OR Master Gunnery Sergeant"
+"E9","Marine","Total","1,601","Sergeant Major OR Master Gunnery Sergeant"
+"E9","AirForce","Male","1,956","Chief Master Sergeant OR First Sergeant"
+"E9","AirForce","Female","506","Chief Master Sergeant OR First Sergeant"
+"E9","AirForce","Total","2,462","Chief Master Sergeant OR First Sergeant"
+"E9","SpaceForce","Male","37","Chief Master Sergeant"
+"E9","SpaceForce","Female","12","Chief Master Sergeant"
+"E9","SpaceForce","Total","49","Chief Master Sergeant"
+"E9","Total","Male","8,937",NA
+"E9","Total","Female","1,337",NA
+"E9","Total","Total","10,274",NA
+"W1","Army","Male","3,817","Warrant Officer"
+"W1","Army","Female","399","Warrant Officer"
+"W1","Army","Total","4,216","Warrant Officer"
+"W1","Navy","Male","30","Warrant Officer"
+"W1","Navy","Female","3","Warrant Officer"
+"W1","Navy","Total","33","Warrant Officer"
+"W1","Marine","Male","483","Warrant Officer"
+"W1","Marine","Female","48","Warrant Officer"
+"W1","Marine","Total","531","Warrant Officer"
+"W1","AirForce","Male","N/A*",NA
+"W1","AirForce","Female","N/A*",NA
+"W1","AirForce","Total","N/A*",NA
+"W1","SpaceForce","Male","N/A*",NA
+"W1","SpaceForce","Female","N/A*",NA
+"W1","SpaceForce","Total","N/A*",NA
+"W1","Total","Male","4,330",NA
+"W1","Total","Female","450",NA
+"W1","Total","Total","4,780",NA
+"W2","Army","Male","5,398","Chief Warrant Officer"
+"W2","Army","Female","653","Chief Warrant Officer"
+"W2","Army","Total","6,051","Chief Warrant Officer"
+"W2","Navy","Male","615","Chief Warrant Officer"
+"W2","Navy","Female","96","Chief Warrant Officer"
+"W2","Navy","Total","711","Chief Warrant Officer"
+"W2","Marine","Male","738","Chief Warrant Officer"
+"W2","Marine","Female","47","Chief Warrant Officer"
+"W2","Marine","Total","785","Chief Warrant Officer"
+"W2","AirForce","Male","N/A*",NA
+"W2","AirForce","Female","N/A*",NA
+"W2","AirForce","Total","N/A*",NA
+"W2","SpaceForce","Male","N/A*",NA
+"W2","SpaceForce","Female","N/A*",NA
+"W2","SpaceForce","Total","N/A*",NA
+"W2","Total","Male","6,751",NA
+"W2","Total","Female","796",NA
+"W2","Total","Total","7,547",NA
+"W3","Army","Male","2,826","Chief Warrant Officer"
+"W3","Army","Female","316","Chief Warrant Officer"
+"W3","Army","Total","3,142","Chief Warrant Officer"
+"W3","Navy","Male","734","Chief Warrant Officer"
+"W3","Navy","Female","102","Chief Warrant Officer"
+"W3","Navy","Total","836","Chief Warrant Officer"
+"W3","Marine","Male","538","Chief Warrant Officer"
+"W3","Marine","Female","32","Chief Warrant Officer"
+"W3","Marine","Total","570","Chief Warrant Officer"
+"W3","AirForce","Male","N/A*",NA
+"W3","AirForce","Female","N/A*",NA
+"W3","AirForce","Total","N/A*",NA
+"W3","SpaceForce","Male","N/A*",NA
+"W3","SpaceForce","Female","N/A*",NA
+"W3","SpaceForce","Total","N/A*",NA
+"W3","Total","Male","4,098",NA
+"W3","Total","Female","450",NA
+"W3","Total","Total","4,548",NA
+"W4","Army","Male","1,532","Chief Warrant Officer"
+"W4","Army","Female","149","Chief Warrant Officer"
+"W4","Army","Total","1,681","Chief Warrant Officer"
+"W4","Navy","Male","416","Chief Warrant Officer"
+"W4","Navy","Female","42","Chief Warrant Officer"
+"W4","Navy","Total","458","Chief Warrant Officer"
+"W4","Marine","Male","265","Chief Warrant Officer"
+"W4","Marine","Female","11","Chief Warrant Officer"
+"W4","Marine","Total","276","Chief Warrant Officer"
+"W4","AirForce","Male","N/A*",NA
+"W4","AirForce","Female","N/A*",NA
+"W4","AirForce","Total","N/A*",NA
+"W4","SpaceForce","Male","N/A*",NA
+"W4","SpaceForce","Female","N/A*",NA
+"W4","SpaceForce","Total","N/A*",NA
+"W4","Total","Male","2,213",NA
+"W4","Total","Female","202",NA
+"W4","Total","Total","2,415",NA
+"W5","Army","Male","514","Chief Warrant Officer"
+"W5","Army","Female","47","Chief Warrant Officer"
+"W5","Army","Total","561","Chief Warrant Officer"
+"W5","Navy","Male","69","Chief Warrant Officer"
+"W5","Navy","Female","5","Chief Warrant Officer"
+"W5","Navy","Total","74","Chief Warrant Officer"
+"W5","Marine","Male","103","Chief Warrant Officer"
+"W5","Marine","Female","8","Chief Warrant Officer"
+"W5","Marine","Total","111","Chief Warrant Officer"
+"W5","AirForce","Male","N/A*",NA
+"W5","AirForce","Female","N/A*",NA
+"W5","AirForce","Total","N/A*",NA
+"W5","SpaceForce","Male","N/A*",NA
+"W5","SpaceForce","Female","N/A*",NA
+"W5","SpaceForce","Total","N/A*",NA
+"W5","Total","Male","686",NA
+"W5","Total","Female","60",NA
+"W5","Total","Total","746",NA
+"O1","Army","Male","7,153","Second Lieutenant"
+"O1","Army","Female","2,358","Second Lieutenant"
+"O1","Army","Total","9,511","Second Lieutenant"
+"O1","Navy","Male","5,012","Ensign"
+"O1","Navy","Female","1,545","Ensign"
+"O1","Navy","Total","6,557","Ensign"
+"O1","Marine","Male","2,292","Second Lieutenant"
+"O1","Marine","Female","370","Second Lieutenant"
+"O1","Marine","Total","2,662","Second Lieutenant"
+"O1","AirForce","Male","4,867","Second Lieutenant"
+"O1","AirForce","Female","1,897","Second Lieutenant"
+"O1","AirForce","Total","6,764","Second Lieutenant"
+"O1","SpaceForce","Male","387","Second Lieutenant"
+"O1","SpaceForce","Female","137","Second Lieutenant"
+"O1","SpaceForce","Total","524","Second Lieutenant"
+"O1","Total","Male","19,711",NA
+"O1","Total","Female","6,307",NA
+"O1","Total","Total","26,018",NA
+"O2","Army","Male","10,013","First Lieutenant"
+"O2","Army","Female","3,093","First Lieutenant"
+"O2","Army","Total","13,106","First Lieutenant"
+"O2","Navy","Male","5,640","Lieutenant Junior Grade"
+"O2","Navy","Female","1,769","Lieutenant Junior Grade"
+"O2","Navy","Total","7,409","Lieutenant Junior Grade"
+"O2","Marine","Male","3,377","First Lieutenant"
+"O2","Marine","Female","574","First Lieutenant"
+"O2","Marine","Total","3,951","First Lieutenant"
+"O2","AirForce","Male","4,993","First Lieutenant"
+"O2","AirForce","Female","1,889","First Lieutenant"
+"O2","AirForce","Total","6,882","First Lieutenant"
+"O2","SpaceForce","Male","409","First Lieutenant"
+"O2","SpaceForce","Female","160","First Lieutenant"
+"O2","SpaceForce","Total","569","First Lieutenant"
+"O2","Total","Male","24,432",NA
+"O2","Total","Female","7,485",NA
+"O2","Total","Total","31,917",NA
+"O3","Army","Male","20,694","Captain"
+"O3","Army","Female","5,739","Captain"
+"O3","Army","Total","26,433","Captain"
+"O3","Navy","Male","14,825","Lieutenant"
+"O3","Navy","Female","4,825","Lieutenant"
+"O3","Navy","Total","19,650","Lieutenant"
+"O3","Marine","Male","5,298","Captain"
+"O3","Marine","Female","624","Captain"
+"O3","Marine","Total","5,922","Captain"
+"O3","AirForce","Male","15,532","Captain"
+"O3","AirForce","Female","5,362","Captain"
+"O3","AirForce","Total","20,894","Captain"
+"O3","SpaceForce","Male","1,032","Captain"
+"O3","SpaceForce","Female","246","Captain"
+"O3","SpaceForce","Total","1,278","Captain"
+"O3","Total","Male","57,381",NA
+"O3","Total","Female","16,796",NA
+"O3","Total","Total","74,177",NA
+"O4","Army","Male","12,758","Major"
+"O4","Army","Female","3,002","Major"
+"O4","Army","Total","15,760","Major"
+"O4","Navy","Male","8,085","Lieutenant Commander"
+"O4","Navy","Female","2,217","Lieutenant Commander"
+"O4","Navy","Total","10,302","Lieutenant Commander"
+"O4","Marine","Male","3,610","Major"
+"O4","Marine","Female","333","Major"
+"O4","Marine","Total","3,943","Major"
+"O4","AirForce","Male","10,045","Major"
+"O4","AirForce","Female","3,395","Major"
+"O4","AirForce","Total","13,440","Major"
+"O4","SpaceForce","Male","951","Major"
+"O4","SpaceForce","Female","196","Major"
+"O4","SpaceForce","Total","1,147","Major"
+"O4","Total","Male","35,449",NA
+"O4","Total","Female","9,143",NA
+"O4","Total","Total","44,592",NA
+"O5","Army","Male","6,969","Lieutenant Colonel"
+"O5","Army","Female","1,539","Lieutenant Colonel"
+"O5","Army","Total","8,508","Lieutenant Colonel"
+"O5","Navy","Male","5,478","Commander"
+"O5","Navy","Female","1,040","Commander"
+"O5","Navy","Total","6,518","Commander"
+"O5","Marine","Male","1,809","Lieutenant Colonel"
+"O5","Marine","Female","138","Lieutenant Colonel"
+"O5","Marine","Total","1,947","Lieutenant Colonel"
+"O5","AirForce","Male","7,459","Lieutenant Colonel"
+"O5","AirForce","Female","1,804","Lieutenant Colonel"
+"O5","AirForce","Total","9,263","Lieutenant Colonel"
+"O5","SpaceForce","Male","620","Lieutenant Colonel"
+"O5","SpaceForce","Female","124","Lieutenant Colonel"
+"O5","SpaceForce","Total","744","Lieutenant Colonel"
+"O5","Total","Male","22,335",NA
+"O5","Total","Female","4,645",NA
+"O5","Total","Total","26,980",NA
+"O6","Army","Male","3,084","Colonel"
+"O6","Army","Female","588","Colonel"
+"O6","Army","Total","3,672","Colonel"
+"O6","Navy","Male","2,613","Captain"
+"O6","Navy","Female","421","Captain"
+"O6","Navy","Total","3,034","Captain"
+"O6","Marine","Male","660","Colonel"
+"O6","Marine","Female","49","Colonel"
+"O6","Marine","Total","709","Colonel"
+"O6","AirForce","Male","2,658","Colonel"
+"O6","AirForce","Female","544","Colonel"
+"O6","AirForce","Total","3,202","Colonel"
+"O6","SpaceForce","Male","203","Colonel"
+"O6","SpaceForce","Female","33","Colonel"
+"O6","SpaceForce","Total","236","Colonel"
+"O6","Total","Male","9,218",NA
+"O6","Total","Female","1,635",NA
+"O6","Total","Total","10,853",NA
+"O7","Army","Male","87","Brigadier General"
+"O7","Army","Female","18","Brigadier General"
+"O7","Army","Total","105","Brigadier General"
+"O7","Navy","Male","90","Rear Admiral (Lower)"
+"O7","Navy","Female","7","Rear Admiral (Lower)"
+"O7","Navy","Total","97","Rear Admiral (Lower)"
+"O7","Marine","Male","37","Brigadier General"
+"O7","Marine","Female","2","Brigadier General"
+"O7","Marine","Total","39","Brigadier General"
+"O7","AirForce","Male","91","Brigadier General"
+"O7","AirForce","Female","14","Brigadier General"
+"O7","AirForce","Total","105","Brigadier General"
+"O7","SpaceForce","Male","11","Brigadier General"
+"O7","SpaceForce","Female","1","Brigadier General"
+"O7","SpaceForce","Total","12","Brigadier General"
+"O7","Total","Male","316",NA
+"O7","Total","Female","42",NA
+"O7","Total","Total","358",NA
+"O8","Army","Male","100","Major General"
+"O8","Army","Female","7","Major General"
+"O8","Army","Total","107","Major General"
+"O8","Navy","Male","67","Rear Admiral (Upper)"
+"O8","Navy","Female","3","Rear Admiral (Upper)"
+"O8","Navy","Total","70","Rear Admiral (Upper)"
+"O8","Marine","Male","30","Major General"
+"O8","Marine","Female","2","Major General"
+"O8","Marine","Total","32","Major General"
+"O8","AirForce","Male","68","Major General"
+"O8","AirForce","Female","8","Major General"
+"O8","AirForce","Total","76","Major General"
+"O8","SpaceForce","Male","9","Major General"
+"O8","SpaceForce","Female","0","Major General"
+"O8","SpaceForce","Total","9","Major General"
+"O8","Total","Male","274",NA
+"O8","Total","Female","20",NA
+"O8","Total","Total","294",NA
+"O9","Army","Male","41","Lieutenant General"
+"O9","Army","Female","8","Lieutenant General"
+"O9","Army","Total","49","Lieutenant General"
+"O9","Navy","Male","32","Vice Admiral"
+"O9","Navy","Female","4","Vice Admiral"
+"O9","Navy","Total","36","Vice Admiral"
+"O9","Marine","Male","18","Lieutenant General"
+"O9","Marine","Female","0","Lieutenant General"
+"O9","Marine","Total","18","Lieutenant General"
+"O9","AirForce","Male","33","Lieutenant General"
+"O9","AirForce","Female","6","Lieutenant General"
+"O9","AirForce","Total","39","Lieutenant General"
+"O9","SpaceForce","Male","4","Lieutenant General"
+"O9","SpaceForce","Female","1","Lieutenant General"
+"O9","SpaceForce","Total","5","Lieutenant General"
+"O9","Total","Male","128",NA
+"O9","Total","Female","19",NA
+"O9","Total","Total","147",NA
+"O10","Army","Male","12","General"
+"O10","Army","Female","1","General"
+"O10","Army","Total","13","General"
+"O10","Navy","Male","7","Admiral"
+"O10","Navy","Female","1","Admiral"
+"O10","Navy","Total","8","Admiral"
+"O10","Marine","Male","3","General"
+"O10","Marine","Female","0","General"
+"O10","Marine","Total","3","General"
+"O10","AirForce","Male","12","General"
+"O10","AirForce","Female","1","General"
+"O10","AirForce","Total","13","General"
+"O10","SpaceForce","Male","3","General"
+"O10","SpaceForce","Female","0","General"
+"O10","SpaceForce","Total","3","General"
+"O10","Total","Male","37",NA
+"O10","Total","Female","3",NA
+"O10","Total","Total","40",NA
